@@ -1,0 +1,1 @@
+{"id":"barnaul","name":"Барнаул","furl":"http://traffic22.ru/php/getStationForecasts.php?sid=%s&type=%d&city=barnaul","murl":"http://traffic22.ru/php/getVehiclesMarkers.php?rids=%s&lat0=0&lng0=0&lat1=90&lng1=180&curk=0&city=barnaul&info=0123","mburl":"http://traffic22.ru/mobile/op.php?city=barnaul&page=forecasts&stid=%d&rt=%s","info":""}

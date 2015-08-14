@@ -1,0 +1,1 @@
+{"id":"vladivostok","name":"Владивосток","furl":"http://bus125.ru/php/getStationForecasts.php?sid=%s&type=%d&city=vladivostok","murl":"http://bus125.ru/php/getVehiclesMarkers.php?rids=%s&lat0=0&lng0=0&lat1=90&lng1=180&curk=0&city=vladivostok&info=0123","mburl":"http://bus125.ru/mobile/op.php?city=vladivostok&page=forecasts&stid=%d&rt=%s","info":"ООО \"ИТС\""}
