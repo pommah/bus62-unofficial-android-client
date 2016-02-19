@@ -1,0 +1,1 @@
+{"murl":"http://bus62.ru/biysk/php/getVehiclesMarkers.php?rids=%s&lat0=0&lng0=0&lat1=90&lng1=180&curk=0&city=biysk&info=01234&_=1432839873517","mburl":"http://bus62.ru/biysk/mobile/op.php?city=biysk&page=forecasts&stid=%d&rt=%s","name":"Бийск","furl":"http://bus62.ru/biysk/php/getStationForecasts.php?sid=%s&type=%d&city=biysk","id":"biysk","info":""}
